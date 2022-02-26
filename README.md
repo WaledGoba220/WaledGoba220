@@ -2,10 +2,11 @@
 
 # Welcome Everyone ✌️
 
-My name is Kevin, and here are a few things I'm working on:
+↣ My Name is Waled Saied , and here are a Projects I'm working on:
 
-- Happy Coding
-- Software Product Sprint
-- Google Maps
+🔴 Software Developer , Competitive Programming 
+🔴 Moblie developer (Flutter - Cross Platform) (Android - Native )
+
+
 
 I **love** nerding out about creative coding, so don't hesitate to reach out!
