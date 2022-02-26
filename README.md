@@ -4,7 +4,7 @@
 
 ↣ My Name is Waled Saied , and here are a Projects I'm working on
 
-♣️ Software Developer , Competitive Programming 
+♣️ Computer Science , Competitive Programming 
 
 ♣️ Moblie developer (Flutter - Cross Platform) (Android - Native )
 
