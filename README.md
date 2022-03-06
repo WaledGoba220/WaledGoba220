@@ -14,6 +14,6 @@
          
          ➽ Technology : Flutter 
          
-         ➽ Science : C++ , OOP, Data Strructure , Algorithm , Database , Clean Code, Clean Arch
+         ➽ Science : C++ ,Python , OOP, Data Strructure , Algorithm , Database , Clean Code, Clean Arch
 
 
