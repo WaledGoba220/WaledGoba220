@@ -16,6 +16,6 @@
          
          ➽ Science : C++ ,Python ,OOP ,Data Strructure ,Algorithm ,Database ,SOLID Principles ,Clean Code,Clean Architecture ,
          
-            Agile Development ,Distributed system
+                      Agile Development ,Distributed system
 
 
