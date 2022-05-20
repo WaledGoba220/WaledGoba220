@@ -14,6 +14,6 @@
          
          ➽ Technology : Flutter 
          
-         ➽ Science : C++ ,Python ,OOP ,Data Strructure ,Algorithm ,Database ,SOLID Principles ,Clean Code,Clean Architecture ,Agile Development 
+         ➽ Science : C++ ,Python ,OOP ,Data Strructure ,Algorithm ,Database ,SOLID Principles ,Clean Code,Clean Architecture ,Agile Development ,Distributed system
 
 
