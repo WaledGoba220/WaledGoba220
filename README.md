@@ -24,9 +24,11 @@
 
 ![snake gif](https://github.com/itsherifAhmed/itsherifAhmed/blob/output/github-contribution-grid-snake.gif)
 
-## *Connect with me*
+# Github Stats
 
-* [![Linkedin: Waled Saied]](https://www.linkedin.com/in/waled-saied-870b68201/)
+<img alt="sherif's Github Stats" src="https://github-readme-stats.vercel.app/api?username=itsherifahmed&show_icons=true&hide_border=true&theme=vue-dark" />
+
+<img alt="sherif's Langs Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsherifahmed&hide_border=true&theme=vue-dark" />
 
 
 
