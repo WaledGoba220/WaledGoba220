@@ -26,7 +26,7 @@
 
 ## *Connect with me*
 
-* [![Linkedin: Waled Saied](https://www.linkedin.com/in/waled-saied-870b68201/)
+* [![Linkedin: Waled Saied](https://img.shields.io/badge/-Waled Saied-blue?style=social&logo=Linkedin&link=https://www.linkedin.com/in/waled-saied-870b68201/)](https://www.linkedin.com/in/waled-saied-870b68201/)
 
 <h2  align="center">💻 Check Out My Repos ⬇️ </h2>
 
