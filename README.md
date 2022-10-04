@@ -24,16 +24,6 @@
 
 ![snake gif](https://github.com/itsherifAhmed/itsherifAhmed/blob/output/github-contribution-grid-snake.gif)
 
-# Github Stats
-
-<img alt="sherif's Github Stats" src="https://github-readme-stats.vercel.app/api?username=itsherifahmed&show_icons=true&hide_border=true&theme=vue-dark" />
-
-<img alt="sherif's Langs Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsherifahmed&hide_border=true&theme=vue-dark" />
-
-
-
-
-
 
 <hr>
 <h2  align="center">💻 Check Out My Repos ⬇️ </h2>
