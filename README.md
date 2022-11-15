@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Waled Saied</h1>
 <h2 align="left">Welcome Everyone ⚡</h2>
 
-<p>
+<p align="center">
 
 ♣️ Computer Science , Competitive Programming 
 
