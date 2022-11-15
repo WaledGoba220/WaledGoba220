@@ -4,15 +4,6 @@
 <h2 align="left">Welcome Everyone ⚡</h2>
 
 
-
-
-<h1>        </h1>
-         
-
-
-
-
-
 ♣️ Computer Science , Competitive Programming 
 
 ♣️ Moblie developer (Native - Kotlin, Cross Platform - Flutter) 
