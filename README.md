@@ -4,7 +4,7 @@
 <h2 align="left">Welcome Everyone ⚡</h2>
 
 
-↣ My Name is Waled Saied , and here are a Projects I'm working on
+
 
 ♣️ Computer Science , Competitive Programming 
 
