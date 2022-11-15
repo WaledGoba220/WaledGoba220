@@ -33,11 +33,13 @@
 <h3 align="left">Connect with me:</h3>
 
 <p align="left">
+
 <a href="https://www.linkedin.com/in/waled-saied-870b68201/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="waled saied" height="30" width="40" /></a>
+
+<a href="https://twitter.com/Waled_Goba" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twutter.svg" alt="waled goba" height="30" width="40" /></a>
 </p>
          
-      
-
+     
 <hr>
 <img src="https://images.squarespace-cdn.com/content/v1/5769fc401b631bab1addb2ab/1541580611624-TE64QGKRJG8SWAIUS7NS/coding-freak.gif"></img>
 <hr>
