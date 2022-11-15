@@ -37,7 +37,8 @@
 <a href="https://www.youtube.com/channel/UCLDudB9gyVenpj83cWrN8TA" target="blank"><img align="center" src="https://www.svgrepo.com/show/95009/youtube.svg" alt="waled goba" height="30" width="40" /></a>   
       
       
-      
+ 
+         
 <a href="" target="blank"><img align="center" src="https://www.svgrepo.com/show/223047/gmail.svg" alt="waled goba" height="30" width="40" />
 waledelsamra@gmail.com</a>        
       
