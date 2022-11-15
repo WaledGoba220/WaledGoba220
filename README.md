@@ -7,6 +7,12 @@ hr {
   color: #49afd1;
 }
          
+          hr {
+    background-color: #F8F8F8;
+    display: block; height: 1px;
+    border: 0; border-top: 2px solid #ccc;
+    margin: 1em 0; padding: 0;
+  }
          
          
 
