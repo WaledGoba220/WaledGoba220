@@ -1,9 +1,6 @@
-
 <img align="right" alt="coding" width="250" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
 <h1 align="center">Hi 👋, I'm Waled Saied</h1>
-
-
 <h2 align="left">Welcome Everyone ⚡</h2>
 
 
@@ -36,6 +33,10 @@
 <hr>
 
 <img src="https://images.squarespace-cdn.com/content/v1/5769fc401b631bab1addb2ab/1541580611624-TE64QGKRJG8SWAIUS7NS/coding-freak.gif"></img>
+
+<hr>
+
+<h3 align="left">Connect with me:</h3>
 
 <hr>
 <h2  align="center">💻 Check Out My Repos ⬇️ </h2>
