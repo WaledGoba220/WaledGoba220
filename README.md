@@ -24,6 +24,10 @@
 
 
 
+
+
+
+<h3 align="left">Connect with me:</h3>
 <p align="left">
 
 <a href="https://www.linkedin.com/in/waled-saied-870b68201/" target="blank"><img align="center" src="https://www.svgrepo.com/show/28145/linkedin.svg" alt="waled saied" height="30" width="40" /></a>
@@ -36,10 +40,6 @@
 
 
 ![snake gif](https://github.com/itsherifAhmed/itsherifAhmed/blob/output/github-contribution-grid-snake.gif)
-
-<hr>
-
-<h3 align="left">Connect with me:</h3>
 
     
 <hr>
