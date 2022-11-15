@@ -27,6 +27,7 @@
 
 
 
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 
@@ -39,13 +40,14 @@
 
 
 
+
+
 ![snake gif](https://github.com/itsherifAhmed/itsherifAhmed/blob/output/github-contribution-grid-snake.gif)
 
     
 <hr>
 <img src="https://images.squarespace-cdn.com/content/v1/5769fc401b631bab1addb2ab/1541580611624-TE64QGKRJG8SWAIUS7NS/coding-freak.gif"></img>
 <hr>
-
 <h2  align="center">💻 Check Out My Repos ⬇️ </h2>
 
 
