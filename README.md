@@ -34,7 +34,7 @@
 
 <p align="left">
 
-<a href="https://twitter.com/Waled_Goba" target="blank"><img align="center" src="https://download.logo.wine/logo/Gmail/Gmail-Logo.wine.png" alt="waled goba" height="30" width="40" /></a>
+<a href="waledelsamra@gmail.com" target="blank"><img align="center" src="https://download.logo.wine/logo/Gmail/Gmail-Logo.wine.png" alt="waled goba" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/waled-saied-870b68201/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="waled saied" height="30" width="40" /></a>
 <a href="https://twitter.com/Waled_Goba" target="blank"><img align="center" src="https://cdn.cdnlogo.com/logos/t/96/twitter-icon.svg" alt="waled goba" height="30" width="40" /></a>
 </p>
