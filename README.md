@@ -36,8 +36,7 @@
 
 <a href="https://www.linkedin.com/in/waled-saied-870b68201/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="waled saied" height="30" width="40" /></a>
 
-<a href="https://twitter.com/Waled_Goba" target="blank"><img align="center" src="![image](https://user-images.githubusercontent.com/96909644/201895885-7857d365-f136-4c9c-b39d-5c3b7aa25f88.png)
-" alt="waled goba" height="30" width="40" /></a>
+<a href="https://twitter.com/Waled_Goba" target="blank"><img align="center" src="https://cdn.cdnlogo.com/logos/t/96/twitter-icon.svg" alt="waled goba" height="30" width="40" /></a>
 </p>
          
      
