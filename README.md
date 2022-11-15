@@ -29,9 +29,9 @@
 ![snake gif](https://github.com/itsherifAhmed/itsherifAhmed/blob/output/github-contribution-grid-snake.gif)
 
 <hr>
+
 <img align="right" alt="coding" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
-<img src="https://images.squarespace-cdn.com/content/v1/5769fc401b631bab1addb2ab/1541580611624-TE64QGKRJG8SWAIUS7NS/coding-freak.gif"></img>
 <hr>
 <h2  align="center">💻 Check Out My Repos ⬇️ </h2>
 
