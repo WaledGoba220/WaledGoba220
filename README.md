@@ -3,10 +3,8 @@
 <h1 align="center">Hi 👋, I'm Waled Saied</h1>
 <h2 align="left">Welcome Everyone ⚡</h2>
 
-hr {
-  color: #49afd1
-}
-<!--       <hr > -->
+<hr color: #49afd1>
+
          
 
 ♣️ Computer Science , Competitive Programming 
