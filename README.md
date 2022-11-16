@@ -41,15 +41,12 @@ waledelsamra@gmail.com</a>
       
 </p>
 
-
-
-
-
 ![snake gif](https://github.com/itsherifAhmed/itsherifAhmed/blob/output/github-contribution-grid-snake.gif)
 
 <img src="https://raw.githubusercontent.com/sagar-viradiya/sagar-viradiya/master/resources/banner.png" alt="Hello world">
 <hr>
 <h2  align="center">💻 Check Out My Repos ⬇️ </h2>
+
 
 
 
