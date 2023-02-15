@@ -32,7 +32,7 @@
 <p align="left">
 
 <a href="https://www.linkedin.com/in/waled-saied-870b68201/" target="blank"><img align="center" src="https://www.svgrepo.com/show/28145/linkedin.svg" alt="waled saied" height="30" width="40" /></a>
-<a href="https://twitter.com/Waled_Goba" target="blank"><img align="center" src="https://www.svgrepo.com/show/183608/twitter.svg" alt="waled goba" height="30" width="40" /></a>
+<a href="https://twitter.com/Waled_Willy" target="blank"><img align="center" src="https://www.svgrepo.com/show/183608/twitter.svg" alt="waled goba" height="30" width="40" /></a>
 <a href="https://www.facebook.com/WaledElsamra" target="blank"><img align="center" src="https://www.svgrepo.com/show/138943/facebook.svg" alt="waled goba" height="30" width="40" /></a> 
 <a href="https://www.youtube.com/channel/UCLDudB9gyVenpj83cWrN8TA" target="blank"><img align="center" src="https://www.svgrepo.com/show/95009/youtube.svg" alt="waled goba" height="30" width="40" /></a>   
               
