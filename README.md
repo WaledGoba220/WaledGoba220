@@ -21,13 +21,7 @@
                       Agile Development ,Distributed system
                       
                       Kotlin , Android Kotlin
-
-
-
-
-
-
-
+                      
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 
@@ -46,6 +40,8 @@ waledelsamra@gmail.com</a>
 <img src="https://raw.githubusercontent.com/sagar-viradiya/sagar-viradiya/master/resources/banner.png" alt="Hello world">
 <hr>
 <h2  align="center">💻 Check Out My Repos ⬇️ </h2>
+
+
 
 
 
