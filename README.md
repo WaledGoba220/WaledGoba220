@@ -1,11 +1,8 @@
 <h1 align="center">Hi 👋, I'm Waled Saied</h1>
 
 <img align="right" alt="coding" width="250" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
+ <img src="https://github.com/Govindv7555/Govindv7555/blob/main/49e76e0596857673c5c80c85b84394c1.gif" width=800px height=95px>
 
-## 🌱 Computer Science Department,<hr> 
-##  Python Developer,
-##  Specialist Data science (Data Analysis || Machine Learning || Deep Learning ),
-##  Entrepreneurship 
 
 
 
