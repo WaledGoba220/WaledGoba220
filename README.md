@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Waled Saied</h1>
 
-![1544118575312](https://frogdesign.nyc3.cdn.digitaloceanspaces.com/wp-content/uploads/2020/08/04192430/AI_designing-with-data.gif)
+![1544118575312](https://i.gifer.com/S76L.gif)
 
 
 <h3 align="center">Computer Science Department, Python Developer Specialist Data science (Data Analysis | Machine Learning | Deep Learning ) Entrepreneurship</h3>
