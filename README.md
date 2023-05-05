@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Waled Saied</h1>
 
-<img align="center" src="https://frogdesign.nyc3.cdn.digitaloceanspaces.com/wp-content/uploads/2020/08/04192430/AI_designing-with-data.gif">
+![1544118575312](https://user-images.githubusercontent.com/51374446/149413490-fb3a6507-eb23-4e08-a756-842c47727978.jpg)
  <img src="https://github.com/Govindv7555/Govindv7555/blob/main/49e76e0596857673c5c80c85b84394c1.gif" width=800px height=95px>
 
 
