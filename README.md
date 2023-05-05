@@ -11,11 +11,17 @@ My Name's Waled ,
 21 Years Old ,
 Computer Science Department,
  Python Developer,
+ 
+ 
  Specialist Data science (Data Analysis || Machine Learning || Deep Learning ),
+ 
+ 
  Entrepreneurship 
  
 I have a great ambition to continue developing my skills and aspire to work in a collaborative environment. I work on all aspects of the development lifecycle.
+
 ➽ Logic Programming : C++ ,OOP ,Data Strructure ,Algorithm ,Database ,SOLID Principles ,Clean Code,Clean Architecture ,Agile Development ,Distributed system
+
 ➽ Data Science : Python , Numpy , Pandas , Matplotlib, Seaborn , SciPy, scikit‑learn, Keras, TensorFlow,PyTorch     
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=waledgoba220" alt="waledgoba220" /></a> </p>
