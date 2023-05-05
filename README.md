@@ -46,7 +46,7 @@ Python Developer,
  
  
  
- 
+ ## <img width="45" alt="about" src="https://raw.github.com/elizarov/elizarov/master/about.png"> GitHub Stats
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=waledgoba220&show_icons=true&locale=en&layout=compact" alt="waledgoba220" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=waledgoba220&show_icons=true&locale=en" alt="waledgoba220" /></p>
@@ -55,9 +55,9 @@ Python Developer,
 
 
 
+ <img src="https://github.com/Govindv7555/Govindv7555/blob/main/49e76e0596857673c5c80c85b84394c1.gif" width=800px height=95px>
 
-
-
+### It was nice meeting you :🤝: what about a follow and let's connect! :💬
 
 
 
