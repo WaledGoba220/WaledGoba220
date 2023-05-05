@@ -5,7 +5,7 @@
 ## <img width="45" alt="about" src="https://raw.github.com/elizarov/elizarov/master/about.png"> About Me:
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=waledgoba220&label=Profile%20views&color=0e75b6&style=flat" alt="waledgoba220" /> </p>
 
-### Hey devs
+### Hey devs 👯
 🌱 My Name's Waled , 
 21 Years Old ,
 Computer Science Department,
