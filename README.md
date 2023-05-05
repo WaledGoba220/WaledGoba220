@@ -1,53 +1,29 @@
-<img align="right" alt="coding" width="250" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
-
 <h1 align="center">Hi 👋, I'm Waled Saied</h1>
-<h2 align="left">Welcome Everyone ⚡</h2>
+<h3 align="center">Computer Science Department, Python Developer Specialist Data science (Data Analysis | Machine Learning | Deep Learning ) Entrepreneurship</h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=waledgoba220&label=Profile%20views&color=0e75b6&style=flat" alt="waledgoba220" /> </p>
 
-♣️ Computer Science , Competitive Programming 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=waledgoba220" alt="waledgoba220" /></a> </p>
 
-♣️ Moblie developer (Native - Kotlin, Cross Platform - Flutter) 
+- 📫 How to reach me **waledelsamra@gmail.com**
 
-
-➤A mobile app developer is able to create software for phones and tablets, and is familiar with the newest technologies in the mobile world. Mobile development requires staying in the mobile head space, meaning that it's even more important than with other hardware contexts to optimize performance, battery, network, and memory management. A developer must be also aware of how to deal with device fragmentation,often working closely with a designer to achieve the best user experience (UX) results.
-
-
-➸ Skills : 
-         
-         ➽ Technology : Flutter 
-         
-         ➽ Science : C++ ,Python ,OOP ,Data Strructure ,Algorithm ,Database ,SOLID Principles ,Clean Code,Clean Architecture ,
-         
-                      Agile Development ,Distributed system
-                      
-                      Kotlin , Android Kotlin
-                      
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-
-<a href="https://www.linkedin.com/in/waled-saied-870b68201/" target="blank"><img align="center" src="https://www.svgrepo.com/show/28145/linkedin.svg" alt="waled saied" height="30" width="40" /></a>
-<a href="https://twitter.com/Waled_Willy" target="blank"><img align="center" src="https://www.svgrepo.com/show/183608/twitter.svg" alt="waled goba" height="30" width="40" /></a>
-<a href="https://www.facebook.com/WaledElsamra" target="blank"><img align="center" src="https://www.svgrepo.com/show/138943/facebook.svg" alt="waled goba" height="30" width="40" /></a> 
-<a href="https://www.youtube.com/channel/UCLDudB9gyVenpj83cWrN8TA" target="blank"><img align="center" src="https://www.svgrepo.com/show/95009/youtube.svg" alt="waled goba" height="30" width="40" /></a>   
-              
-<a href="" target="blank"><img align="center" src="https://www.svgrepo.com/show/223047/gmail.svg" alt="waled goba" height="30" width="40" />
-waledelsamra@gmail.com</a>        
-      
+<a href="https://twitter.com/waled_willy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="waled_willy" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/waled-saied-870b68201/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/waled-saied-870b68201/" height="30" width="40" /></a>
+<a href="https://fb.com/https://www.facebook.com/waledelsamra" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/waledelsamra" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/https://www.youtube.com/channel/ucldudb9gyvenpj83cwrn8ta" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/channel/ucldudb9gyvenpj83cwrn8ta" height="30" width="40" /></a>
+<a href="https://discord.gg/Waled Saied#9749" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Waled Saied#9749" height="30" width="40" /></a>
 </p>
 
-![snake gif](https://github.com/itsherifAhmed/itsherifAhmed/blob/output/github-contribution-grid-snake.gif)
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
 
-<img src="https://raw.githubusercontent.com/sagar-viradiya/sagar-viradiya/master/resources/banner.png" alt="Hello world">
-<hr>
-<h2  align="center">💻 Check Out My Repos ⬇️ </h2>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=waledgoba220&show_icons=true&locale=en&layout=compact" alt="waledgoba220" /></p>
 
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=waledgoba220&show_icons=true&locale=en" alt="waledgoba220" /></p>
 
-
-
-
-
-
-
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=waledgoba220&" alt="waledgoba220" /></p>
 
 
 
