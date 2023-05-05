@@ -4,10 +4,19 @@
  <img src="https://github.com/Govindv7555/Govindv7555/blob/main/49e76e0596857673c5c80c85b84394c1.gif" width=800px height=95px>
 
 ## <img width="45" alt="about" src="https://raw.github.com/elizarov/elizarov/master/about.png"> About Me:
-
-
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=waledgoba220&label=Profile%20views&color=0e75b6&style=flat" alt="waledgoba220" /> </p>
+
+### Hey devs
+My Name's Waled , 
+21 Years Old ,
+Computer Science Department,
+ Python Developer,
+ Specialist Data science (Data Analysis || Machine Learning || Deep Learning ),
+ Entrepreneurship 
+ 
+I have a great ambition to continue developing my skills and aspire to work in a collaborative environment. I work on all aspects of the development lifecycle.
+➽ Logic Programming : C++ ,OOP ,Data Strructure ,Algorithm ,Database ,SOLID Principles ,Clean Code,Clean Architecture ,Agile Development ,Distributed system
+➽ Data Science : Python , Numpy , Pandas , Matplotlib, Seaborn , SciPy, scikit‑learn, Keras, TensorFlow,PyTorch     
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=waledgoba220" alt="waledgoba220" /></a> </p>
 
