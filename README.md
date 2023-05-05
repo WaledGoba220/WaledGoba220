@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Waled Saied</h1>
 
-![1544118575312](https://i.gifer.com/S76L.gif)
+![1544118575312](https://www.sciencenews.org/wp-content/uploads/2023/04/040823_chatgpt_feat.gif)
 
 
 <h3 align="center">Computer Science Department, Python Developer Specialist Data science (Data Analysis | Machine Learning | Deep Learning ) Entrepreneurship</h3>
