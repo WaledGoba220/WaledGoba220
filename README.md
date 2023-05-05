@@ -7,18 +7,18 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=waledgoba220&label=Profile%20views&color=0e75b6&style=flat" alt="waledgoba220" /> </p>
 
 ### Hey devs
-My Name's Waled , 
+🌱 My Name's Waled , 
 21 Years Old ,
 Computer Science Department,
- Python Developer,
+Python Developer,
  
  
- Specialist Data science (Data Analysis || Machine Learning || Deep Learning ),
+ 🌱 Specialist Data science (Data Analysis || Machine Learning || Deep Learning ),
  
  
- Entrepreneurship 
+ 🌱 Entrepreneurship 
  
-I have a great ambition to continue developing my skills and aspire to work in a collaborative environment. I work on all aspects of the development lifecycle.
+⚡I have a great ambition to continue developing my skills and aspire to work in a collaborative environment. I work on all aspects of the development lifecycle.
 
 ➽ Logic Programming : C++ ,OOP ,Data Strructure ,Algorithm ,Database ,SOLID Principles ,Clean Code,Clean Architecture ,Agile Development ,Distributed system
 
