@@ -2,7 +2,7 @@
 
 ![1544118575312](https://user-images.githubusercontent.com/51374446/149413490-fb3a6507-eb23-4e08-a756-842c47727978.jpg)
  <img src="https://github.com/Govindv7555/Govindv7555/blob/main/49e76e0596857673c5c80c85b84394c1.gif" width=800px height=95px>
-## <img width="45" alt="about" src="https://raw.github.com/elizarov/elizarov/master/about.png"> About Me:
+## <img width="45" alt="about" src="https://raw.github.com/elizarov/elizarov/master/about.png"> About Me
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=waledgoba220&label=Profile%20views&color=0e75b6&style=flat" alt="waledgoba220" /> </p>
 
 ### Hey devs 👯
