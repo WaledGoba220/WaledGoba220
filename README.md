@@ -9,7 +9,7 @@
 🌱 My Name's Waled , 
 22 Years Old ,
 Computer Science Department,
-Python Developer,
+Python Developer
  
  
  🌱	Perform data extraction, transformation and loading (ETL) using Python, Power BI , Sql and Excel
