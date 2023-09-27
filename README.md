@@ -12,16 +12,32 @@ Computer Science Department,
 Python Developer,
  
  
- 🌱 Specialist Data science (Data Analysis || Machine Learning || Deep Learning ),
- 
- 
- 🌱 Entrepreneurship 
- 
+ 🌱	Perform data extraction, transformation and loading (ETL) using Python, Power BI , Sql and Excel
+  
+ 🌱 Conduct Exploratory data analysis for time-series datasets
+
+ 🌱 Build Predictive Models and algorithms support Business Objectives
+
+ 🌱 Create Interactive dashboards and reports using Power BI and other Visualization tools
+
+ 🌱 Communicate findings and Recommendations to Stockholders using clear and concise Language
+
+ 🌱 Entrepreneurship, Business Development
+
+ 🌱	Have strong practical training programming knowledge for Mobile Development 
+    (Native - Kotlin, Cross Platform -Flutter)
+
 ⚡I have a great ambition to continue developing my skills and aspire to work in a collaborative environment. I work on all aspects of the development lifecycle.
 
-👨‍💻 Logic Programming : C++ ,OOP ,Data Strructure ,Algorithm ,Database ,SOLID Principles ,Clean Code,Clean Architecture ,Agile Development ,Distributed system
+👨‍💻 Logic Programming : 	C++ , Python , OOP ,Data Structure ,Algorithm ,Database ,SOLID Principles ,SQL,Clean Code,Clean Architecture ,Agile Development ,Distributed system,Git
 
-👨‍💻 Data Science : Python , Numpy , Pandas , Matplotlib, Seaborn , SciPy, scikit‑learn, Keras, TensorFlow,PyTorch     
+👨‍💻 Data analytics (Power BI, Python , Sql , Excel)
+
+👨‍💻 Machine Learning, Deep Learning (Numpy, Pandas, Matplotlib, Seaborn, SciPy, scikit learn, Keras, TensorFlow, PyTorch)
+
+👨‍💻 	Critical thinking
+
+👨‍💻 Problem Solving Skills, Self-Learning, Communication Skills
 
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=waledgoba220" alt="waledgoba220" /></a> </p>
