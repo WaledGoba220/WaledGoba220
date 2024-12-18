@@ -5,39 +5,26 @@
 ## <img width="45" alt="about" src="https://raw.github.com/elizarov/elizarov/master/about.png"> About Me
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=waledgoba220&label=Profile%20views&color=0e75b6&style=flat" alt="waledgoba220" /> </p>
 
-### Hey devs 👯
-🌱 My Name's Waled , 
-23 Years Old ,
-Computer Science Department,
-Python Developer
- 
- 
- 🌱	Perform data extraction, transformation and loading (ETL) using Python, Power BI , Sql and Excel
-  
- 🌱 Conduct Exploratory data analysis for time-series datasets
+𝗠𝘆 𝗕𝗮𝗰𝗸𝗴𝗿𝗼𝘂𝗻𝗱 𝗮𝗻𝗱 𝗘𝘅𝗽𝗲𝗿𝗶𝗲𝗻𝗰𝗲
+ - Data Scientist with a passion for solving problems using the power of data through Analytics 
+   with +2 year hands on Data Analysis and Machine Learning Projects.
+ - I’ve worked on projects involving predictive modeling, data analysis, and optimization. I’m eager to 
+   collaborate on impactful projects.
 
- 🌱 Build Predictive Models and algorithms support Business Objectives
+𝗞𝗲𝘆 𝗦𝗸𝗶𝗹𝗹𝘀 
+- I possess a strong understanding of statistical concepts and have hands-on experience with tools
+  such as SQL, Python, power bi, Excel and Tableau. 
+- Conduct Exploratory data analysis for time-series datasets
+- Build Predictive Models and algorithms support Business Objectives
+- Create Interactive dashboards and reports using Power BI and other Visualization tools
+- Communicate findings and Recommendations to Stockholders using clear and concise Language
+- Entrepreneurship, Business Development
+- Critical thinking
+- Problem Solving Skills, Self-Learning, Communication Skills
 
- 🌱 Create Interactive dashboards and reports using Power BI and other Visualization tools
-
- 🌱 Communicate findings and Recommendations to Stockholders using clear and concise Language
-
- 🌱 Entrepreneurship, Business Development
-
- 🌱	Have strong practical training programming knowledge for Mobile Development 
-    (Native - Kotlin, Cross Platform -Flutter)
-
-⚡I have a great ambition to continue developing my skills and aspire to work in a collaborative environment. I work on all aspects of the development lifecycle.
-
-👨‍💻 Logic Programming : 	C++ , Python , OOP ,Data Structure ,Algorithm ,Database ,SOLID Principles ,SQL,Clean Code,Clean Architecture ,Agile Development ,Distributed system,Git
-
-👨‍💻 Data analytics (Power BI, Python , Sql , Excel)
-
-👨‍💻 Machine Learning, Deep Learning (Numpy, Pandas, Matplotlib, Seaborn, SciPy, scikit learn, Keras, TensorFlow, PyTorch)
-
-👨‍💻 	Critical thinking
-
-👨‍💻 Problem Solving Skills, Self-Learning, Communication Skills
+🎯 I'm always open to collaborating on impactful projects and exploring new opportunities in data 
+   science and great ambition to continue developing my skills and aspire to work in a collaborative 
+   environment I work on all aspects of the development lifecycle.
 
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=waledgoba220" alt="waledgoba220" /></a> </p>
