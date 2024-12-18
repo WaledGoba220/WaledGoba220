@@ -23,8 +23,8 @@
 - Problem Solving Skills, Self-Learning, Communication Skills
 
 🎯  I'm always open to collaborating on impactful projects and exploring new opportunities in data 
-    science and great ambition to continue developing my skills and aspire to work in a collaborative 
-    environment I work on all aspects of the development lifecycle.
+     science and great ambition to continue developing my skills and aspire to work in a collaborative 
+     environment I work on all aspects of the development lifecycle.
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=waledgoba220" alt="waledgoba220" /></a> </p>
  <img src="https://github.com/Govindv7555/Govindv7555/blob/main/49e76e0596857673c5c80c85b84394c1.gif" width=800px height=95px>
