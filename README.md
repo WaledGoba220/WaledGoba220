@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Waled Saied</h1>
 
-![1544118575312](https://t4.ftcdn.net/jpg/09/38/48/13/360_F_938481385_Un6JXzwNJwv8cUIKC17lAOlkMVNO9bIL.jpg)
+![1544118575312](https://t4.ftcdn.net/jpg/09/38/48/13/360_F_938481385_Un6JXzwNJwv8cUIKC17lAOlkMVNO9bIL.jpg width=800px height=95px)
  <img src="https://github.com/Govindv7555/Govindv7555/blob/main/49e76e0596857673c5c80c85b84394c1.gif" width=800px height=95px>
 ## <img width="45" alt="about" src="https://raw.github.com/elizarov/elizarov/master/about.png"> About Me
 
