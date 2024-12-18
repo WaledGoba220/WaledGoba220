@@ -1,5 +1,4 @@
 <img src="https://github.com/Govindv7555/Govindv7555/blob/main/49e76e0596857673c5c80c85b84394c1.gif" width=800px height=95px>
-<img width="45" alt="about" src="https://raw.github.com/elizarov/elizarov/master/about.png"> About Me
 
 
 𝗠𝘆 𝗕𝗮𝗰𝗸𝗴𝗿𝗼𝘂𝗻𝗱 𝗮𝗻𝗱 𝗘𝘅𝗽𝗲𝗿𝗶𝗲𝗻𝗰𝗲
