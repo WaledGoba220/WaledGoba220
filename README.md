@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Waled Saied</h1>
 
-![1544118575312](https://img.freepik.com/premium-photo/shark-business-concept-management-businessshark-generative-ai_155807-2328.jpg?w=1060)
+![1544118575312](https://t4.ftcdn.net/jpg/09/38/48/13/360_F_938481385_Un6JXzwNJwv8cUIKC17lAOlkMVNO9bIL.jpg)
  <img src="https://github.com/Govindv7555/Govindv7555/blob/main/49e76e0596857673c5c80c85b84394c1.gif" width=800px height=95px>
 ## <img width="45" alt="about" src="https://raw.github.com/elizarov/elizarov/master/about.png"> About Me
-<p align="left"> <img src="https://t4.ftcdn.net/jpg/09/38/48/13/360_F_938481385_Un6JXzwNJwv8cUIKC17lAOlkMVNO9bIL.jpg" alt="waledgoba220" /> </p>
+
 
 𝗠𝘆 𝗕𝗮𝗰𝗸𝗴𝗿𝗼𝘂𝗻𝗱 𝗮𝗻𝗱 𝗘𝘅𝗽𝗲𝗿𝗶𝗲𝗻𝗰𝗲
  - Data Scientist with a passion for solving problems using the power of data through Analytics 
