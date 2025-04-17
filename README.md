@@ -4,7 +4,7 @@
 
 𝗠𝘆 𝗕𝗮𝗰𝗸𝗴𝗿𝗼𝘂𝗻𝗱 𝗮𝗻𝗱 𝗘𝘅𝗽𝗲𝗿𝗶𝗲𝗻𝗰𝗲
  - Data Scientist with a passion for solving problems using the power of data through Analytics 
-   with +2 year hands on Data Analysis and Machine Learning Projects.
+   with +3 year hands on Data Analysis and Machine Learning Projects.
  - I’ve worked on projects involving predictive modeling, data analysis, and optimization. I’m eager to 
    collaborate on impactful projects.
 
