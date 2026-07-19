@@ -82,15 +82,6 @@ I'm passionate about bridging the gap between cutting-edge AI research and pract
 
 ---
 
-# 📫 Connect With Me
-
-* 💼 LinkedIn
-* 💻 GitHub
-* 📧 Email
-* 🌐 Portfolio
-
----
-
 # 📈 GitHub Stats
 
 <p align="center">
