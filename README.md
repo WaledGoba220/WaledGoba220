@@ -2,6 +2,9 @@
 
 ### 🚀 Data Scientist | AI Instructor
 
+
+# 👨‍💻 About Me
+
 As a Data Scientist with over 3 years of proven experience in AI-driven healthcare solutions, I specialize in transforming complex datasets into breakthrough innovations that drive measurable clinical and business impact. Holding a Computer Science degree and multiple certifications including Google Competitive Programming, I merge advanced analytics with practical implementation to solve critical healthcare challenges—from precision medicine algorithms to real-time fraud detection systems.
 
 My career is defined by delivering measurable impact:
@@ -18,13 +21,7 @@ I'm passionate about bridging the gap between cutting-edge AI research and pract
 
 ---
 
-# 👨‍💻 About Me
 
-## 𝗠𝘆 𝗕𝗮𝗰𝗸𝗴𝗿𝗼𝘂𝗻𝗱 𝗮𝗻𝗱 𝗘𝘅𝗽𝗲𝗿𝗶𝗲𝗻𝗰𝗲
-
-I am an AI Engineer, Data Scientist, and Instructor with hands-on experience designing intelligent systems, developing machine learning solutions, and teaching modern AI technologies.
-
-My work focuses on building scalable AI applications that combine research with practical implementation across multiple domains including healthcare, computer vision, natural language processing, recommendation systems, predictive analytics, and business intelligence.
 
 ### 💡 What I Do
 
