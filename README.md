@@ -1,371 +1,117 @@
-<img src="https://github.com/Govindv7555/Govindv7555/blob/main/49e76e0596857673c5c80c85b84394c1.gif" width=800px height=95px>
+# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> Hi, I'm **Waled Saied**
 
- ## <img width="45" alt="about" src="https://raw.github.com/elizarov/elizarov/master/about.png"> About Me
+### 🚀 AI Engineer | Data Scientist | AI Instructor
 
-𝗠𝘆 𝗕𝗮𝗰𝗸𝗴𝗿𝗼𝘂𝗻𝗱 𝗮𝗻𝗱 𝗘𝘅𝗽𝗲𝗿𝗶𝗲𝗻𝗰𝗲
+I'm passionate about building intelligent systems that solve real-world problems through **Artificial Intelligence**, **Machine Learning**, **Deep Learning**, **Natural Language Processing**, and **Computer Vision**.
 
-As a Data Scientist with over 3 years of proven experience in AI-driven healthcare solutions, I specialize in transforming complex datasets into breakthrough innovations that drive measurable clinical and business impact. Holding a Computer Science degree and multiple certifications including Google Competitive Programming, I merge advanced analytics with practical implementation to solve critical healthcare challenges—from precision medicine algorithms to real-time fraud detection systems.
+As an AI Engineer and Instructor, I enjoy transforming complex concepts into practical applications while helping students and professionals build strong foundations in AI and Data Science.
 
-My career is defined by delivering measurable impact:
+---
 
-1- Healthcare AI Innovation: Engineered precision medicine algorithms that improved diagnostic accuracy by 22% and reduced patient readmission rates by 18% across hospital networks, while developing epidemiological monitoring systems for 250,000+ covered lives.
+# 👨‍💻 About Me
 
-2- Business Performance & Revenue Growth: Generated over $38M in combined revenue impact and cost savings through AI-driven solutions, including $20M annual savings through intelligent automation and $12M revenue growth via personalized recommendation engines.
+## 𝗠𝘆 𝗕𝗮𝗰𝗸𝗴𝗿𝗼𝘂𝗻𝗱 𝗮𝗻𝗱 𝗘𝘅𝗽𝗲𝗿𝗶𝗲𝗻𝗰𝗲
 
-3- Award-Winning Innovation: Patent holder in healthcare AI diagnostics and recognized entrepreneur with 1st Place at Techne Drifts, Top 18 startups at Techne Summit Cairo 2023, and advancement to Top 50 companies in "El-Forsa" Program from 1,117 applicants.
+I am an AI Engineer, Data Scientist, and Instructor with hands-on experience designing intelligent systems, developing machine learning solutions, and teaching modern AI technologies.
 
-4- Technical Excellence & MLOps: Architected end-to-end ML pipelines achieving 99% model accuracy in production environments serving 10M+ daily predictions, while reducing AI solution time-to-market by 60% through advanced MLOps practices.
+My work focuses on building scalable AI applications that combine research with practical implementation across multiple domains including healthcare, computer vision, natural language processing, recommendation systems, predictive analytics, and business intelligence.
 
-I'm passionate about bridging the gap between cutting-edge AI research and practical healthcare applications to create sustainable impact. Whether developing real-time analytics dashboards, mentoring emerging data scientists, or building fraud detection systems with 92% accuracy, I thrive on turning complex data challenges into actionable solutions that save lives and drive business growth.
+### 💡 What I Do
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=waledgoba220" alt="waledgoba220" /></a> </p>
- <img src="https://github.com/Govindv7555/Govindv7555/blob/main/49e76e0596857673c5c80c85b84394c1.gif" width=800px height=95px>
+* 🤖 Build Machine Learning & Deep Learning solutions.
+* 🧠 Develop NLP and Large Language Model (LLM) applications.
+* 👁️ Create Computer Vision systems using OpenCV, YOLO, and PyTorch.
+* 📊 Design interactive dashboards using Power BI.
+* 🚀 Deploy AI applications using Streamlit and FastAPI.
+* 🎓 Teach Data Science, Machine Learning, Deep Learning, NLP, Computer Vision, SQL, Python, and Power BI.
 
- 
- ## <img width="45" alt="about" src="https://raw.github.com/elizarov/elizarov/master/about.png"> Tools
-<p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
- <img src="https://github.com/Govindv7555/Govindv7555/blob/main/49e76e0596857673c5c80c85b84394c1.gif" width=800px height=95px>
- 
- 
- ## <img width="45" alt="about" src="https://raw.github.com/elizarov/elizarov/master/about.png"> Contacts Me
-<div align="center">
-<a href="https://twitter.com/Waled_Willy"><img  src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a>
-<a href="mailto: waledelsamra@gmail.com"><img  src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-<a href="https://www.linkedin.com/in/waled-saied-870b68201/"><img  src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-<a href="https://www.facebook.com/WaledElsamra"><img  src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"></a>
- <a href="https://www.youtube.com/channel/UCLDudB9gyVenpj83cWrN8TA"><img  src="https://img.shields.io/badge/Youtube-1DA1F2?style=for-the-badge&logo=youtube&logoColor=white"></a>
- </div>
- 
- <img src="https://github.com/Govindv7555/Govindv7555/blob/main/49e76e0596857673c5c80c85b84394c1.gif" width=800px height=95px>
- 
- 
- 
- 
- 
- 
- ## <img width="45" alt="about" src="https://raw.github.com/elizarov/elizarov/master/about.png"> GitHub Stats
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=waledgoba220&show_icons=true&locale=en&layout=compact" alt="waledgoba220" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=waledgoba220&show_icons=true&locale=en" alt="waledgoba220" /></p>
+# 🛠 Tech Stack
 
-## <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=waledgoba220&" alt="waledgoba220" /></p>
+### 👨‍💻 Programming Languages
 
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge\&logo=postgresql\&logoColor=white)
 
+### 🤖 Artificial Intelligence
 
- <img src="https://github.com/Govindv7555/Govindv7555/blob/main/49e76e0596857673c5c80c85b84394c1.gif" width=800px height=95px>
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge\&logo=scikitlearn\&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge\&logo=tensorflow\&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge\&logo=pytorch\&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge\&logo=keras\&logoColor=white)
 
-### 🔭 It was nice meeting you 🤝 ,what about a follow and let's connect! :💬
+### 🧠 NLP & LLM
 
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge\&logo=openai\&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-000000?style=for-the-badge)
+![Transformers](https://img.shields.io/badge/HuggingFace-FFD21F?style=for-the-badge\&logo=huggingface\&logoColor=black)
 
+### 👁 Computer Vision
 
+![OpenCV](https://img.shields.io/badge/OpenCV-27338E?style=for-the-badge\&logo=opencv\&logoColor=white)
+![YOLO](https://img.shields.io/badge/YOLO-111111?style=for-the-badge)
+![MediaPipe](https://img.shields.io/badge/MediaPipe-0097A7?style=for-the-badge)
 
+### 📊 Data Analysis
 
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge\&logo=pandas)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge\&logo=numpy)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge)
+![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge)
 
+### 📈 Business Intelligence
 
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge\&logo=powerbi\&logoColor=black)
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge\&logo=microsoftexcel)
 
+### 🌐 Deployment
 
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge\&logo=docker)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge\&logo=streamlit)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge\&logo=fastapi)
 
+---
 
+# 📫 Connect With Me
 
+* 💼 LinkedIn
+* 💻 GitHub
+* 📧 Email
+* 🌐 Portfolio
 
+---
 
+# 📈 GitHub Stats
 
+<p align="center">
 
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight"/>
 
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight"/>
 
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight"/>
 
+</p>
 
+---
 
+# 🐍 Contribution Graph
 
+<p align="center">
 
+<img src="https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-contribution-grid-snake.svg"/>
 
+</p>
 
+---
 
+<h3 align="center">
 
+⭐ Thanks for visiting my profile! <br>
 
+Let's build something amazing with AI 🚀
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+</h3>
